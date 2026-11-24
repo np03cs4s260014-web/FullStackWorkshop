@@ -1,0 +1,22 @@
+#nav-list{
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color: red;
+}
+:root {
+  --primary-bg-color: pink;
+  --primary-color: yellow;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+}
+img {
+    width: 200px;
+    height: auto;
+}
